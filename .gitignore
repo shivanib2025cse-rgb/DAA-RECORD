@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+bin/
+out/
+target/
+
+# VS Code settings
+.vscode/
+
+# MySQL connector jar (download it separately)
+lib/*.jar
+
+# Passwords / config
+db.properties
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
